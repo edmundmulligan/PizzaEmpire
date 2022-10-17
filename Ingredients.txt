@@ -3,5 +3,4 @@ Basic Pizza Ingridients
 -- Dough
 -- Cheese
 -- Source
--- Fish
 -- Olives
